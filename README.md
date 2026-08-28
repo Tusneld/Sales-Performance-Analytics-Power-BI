@@ -1,5 +1,7 @@
 # Retail Store Sales Dashboard
-
+---
+![Power BI Dashboard]()
+---
 ## Table of Contents
 
 - [Overview](#overview)
