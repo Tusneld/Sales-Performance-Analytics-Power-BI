@@ -1,6 +1,6 @@
 # Retail Store Sales Dashboard
 ---
-![Power BI Dashboard]()
+![Power BI Dashboard](https://github.com/Tusneld/Sales-Performance-Analytics-Power-BI/blob/57283d5e185d934f1eafff7419fbb0aa046919d1/Power%20BI%20V1%20Dashboard.PNG)
 ---
 ## Table of Contents
 
