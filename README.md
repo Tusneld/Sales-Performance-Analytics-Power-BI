@@ -2,6 +2,9 @@
 ---
 ![Power BI Dashboard](https://github.com/Tusneld/Sales-Performance-Analytics-Power-BI/blob/ade5e3211950b00a0efc53b5e301bb235a5fb8f3/Power%20BI%20V2%20Dashboard.PNG)
 ---
+---
+![Star Schema](https://github.com/Tusneld/Sales-Performance-Analytics-Power-BI/blob/fcab01055941e2665ca128fff985cbbb4bebd351/Star%20Schema.PNG)
+---
 ## Table of Contents
 
 - [Overview](#overview)
