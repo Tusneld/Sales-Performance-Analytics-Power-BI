@@ -1,6 +1,6 @@
 # Retail Store Sales Dashboard
 
-An end-to-end Power BI project that transforms raw retail transaction data into a polished, interactive dashboard — giving stakeholders a clear, visual way to track performance and make data-informed decisions.
+An end-to-end Power BI project that transforms raw retail transaction data into a polished, interactive dashboard - giving stakeholders a clear, visual way to track performance and make data-informed decisions.
 
 ---
 ![Power BI Dashboard](https://github.com/Tusneld/Sales-Performance-Analytics-Power-BI/blob/ade5e3211950b00a0efc53b5e301bb235a5fb8f3/Power%20BI%20V2%20Dashboard.PNG)
@@ -24,7 +24,7 @@ An end-to-end Power BI project that transforms raw retail transaction data into 
 
 ## Overview
 
-This project involves building a professional, interactive **Retail Store Sales Dashboard** from scratch in Power BI. The objective is to provide actionable insights into store performance through visual summaries and trend analysis — turning raw sales data into a tool that supports faster, more confident business decisions.
+This project involves building a professional, interactive **Retail Store Sales Dashboard** from scratch in Power BI. The objective is to provide actionable insights into store performance through visual summaries and trend analysis - turning raw sales data into a tool that supports faster, more confident business decisions.
 
 ## Business Questions
 
@@ -55,11 +55,6 @@ The dashboard tracks the following performance indicators to help stakeholders m
 ## Data Model
 
 The dataset is organized using a star schema, with a central **Orders** fact table connected to three supporting dimension tables: **People**, **Returns**, and a **Date Calendar** table. This structure keeps the model efficient and ensures calculations stay accurate as filters and slicers are applied.
-
-# Retail Store Sales Schema
----
-https://github.com/Tusneld/Sales-Performance-Analytics-Power-BI/blob/fcab01055941e2665ca128fff985cbbb4bebd351/Star%20Schema.PNG
----
 
 ## Steps Taken
 
